@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.47.0",
+	"FriendlyName": "NeftaToolboxSDK",
+	"Description": "Nefta Web3 Toolbox SDK",
+	"Category": "Web3",
+	"CreatedBy": "Nefta",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NeftaToolboxSDKDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "NeftaToolboxSDK",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "NeftaToolboxSDKEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
